@@ -1,0 +1,17 @@
+{
+  "name": "genpark-lamport-vector-clock-causality-tracker-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Lamport Vector Clock Causality Tracker & Partial Order Concurrency Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "distributed-systems",
+    "vector-clocks",
+    "lamport-timestamps",
+    "causal-ordering"
+  ]
+}
